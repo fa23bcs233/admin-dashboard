@@ -32,7 +32,7 @@ This is a **static front-end assignment** of an admin panel, designed using HTML
 ---
 
 ## 📸 Screenshots
-![screenshot]("./preview.png")
+![screenshot]("preview.png")
 
 ## Folder Structure
 
