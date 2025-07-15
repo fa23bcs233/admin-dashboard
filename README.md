@@ -32,17 +32,17 @@ This is a **static front-end assignment** of an admin panel, designed using HTML
 ---
 
 ## 📸 Screenshots
-![screenshot]("preview.png")
+![screenshot](preview.png)
 
 ## Folder Structure
 
-- [/Assets]("/Assets")
-- [index.html]("index.html")
-- [style.scss]("style.scss)
-- [style.css]("style.css)
-- [_utilities.scss]("_utilities.scss")
-- [_variables.scss]("_variables.scss")
-- [preview.png]("preview.png")
+- [/Assets](/Assets)
+- [index.html](index.html)
+- [style.scss](style.scss)
+- [style.css](style.css)
+- [_utilities.scss](_utilities.scss)
+- [_variables.scss](_variables.scss)
+- [preview.png](preview.png)
 
 ## Technologies Used
 
