@@ -54,4 +54,11 @@ This is a **static front-end assignment** of an admin panel, designed using HTML
 
 ## Attributions
 
+- icons from [pictogrammers](https://pictogrammers.com/library/mdi/)
+- roboto font [googlefonts](fonts.google.com)
+
+## Author
+
+- Name : [Muhammad Arham](#)
+- LinkedIn: [Arham Rafiq](https://www.linkedin.com/in/arham-rafiq-a599a22b1/)
 
